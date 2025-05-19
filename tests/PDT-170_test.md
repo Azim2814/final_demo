@@ -1,0 +1,1 @@
+Can create and modify events for their venue
