@@ -1,0 +1,1 @@
+Create a link for a user to invite them to a game.
