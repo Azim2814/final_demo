@@ -1,0 +1,1 @@
+v. max party size (for booking)
