@@ -1,0 +1,1 @@
+Engagement Metrics: Average number of events attended per month
