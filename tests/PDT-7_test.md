@@ -1,0 +1,1 @@
+Querying the database for user activity, venue performance, and key business metrics
