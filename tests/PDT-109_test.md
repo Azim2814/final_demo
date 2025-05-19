@@ -1,0 +1,1 @@
+Upload videos, pictures etc. (same dimensions and format as instagram)
