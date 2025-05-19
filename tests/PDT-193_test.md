@@ -1,0 +1,1 @@
+Querying the database for the number of users and the number of times they have logged in.
