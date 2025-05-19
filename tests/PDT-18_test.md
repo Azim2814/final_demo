@@ -1,0 +1,1 @@
+a.sort() b.sort() c.sort() d.sort()
