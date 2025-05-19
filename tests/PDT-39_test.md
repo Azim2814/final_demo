@@ -1,0 +1,1 @@
+Admins can create and manage venues, track their performance, and set up events, discounts, and guestlists.
