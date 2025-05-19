@@ -1,0 +1,1 @@
+Discount Details (e.g., ‘20% Weekdays’, 10% Weekends) - Maybe have 2 columns
