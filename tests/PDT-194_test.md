@@ -1,0 +1,1 @@
+a=0 b=0 for i in range(1,100): if i==0: a=a+1 if a==1: b=b+1 if b==2: a=a+1 if b==3: b=b-3 if b==4: a=a-4 if b==5: b=b-5 if b==6: a=a-6 if b==7: b=b-7 if b==8: a=a-8 if b==9: b=b-9 if b==10: a=a-10 if b==11: b=b-11 if b==12: a=a-12 if b==13: b=b-13 if b==14: b=b-14 if b==15: b=b-15 if b==16: b=b-16 if b==17: b=b-17 if
