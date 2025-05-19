@@ -1,0 +1,1 @@
+Automated Approval: Based on certain rules/conditions (optional) Phase 2  Membership Confirmation: Email/SMS notification Phase 1
