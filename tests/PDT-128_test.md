@@ -1,0 +1,1 @@
+a user enters his personal details in the form of a user name, email address, phone number, etc.
