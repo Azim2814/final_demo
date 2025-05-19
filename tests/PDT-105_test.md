@@ -1,0 +1,1 @@
+i. Event name ii. Date & time iii. Venue (linked to the relevant venue profile) iv. Event description
