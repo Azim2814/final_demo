@@ -1,0 +1,1 @@
+a guest list can have a max capacity, sign-up deadline, priority entry rules.
