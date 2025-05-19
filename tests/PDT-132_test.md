@@ -1,0 +1,1 @@
+if a user is invited: if the user has not already registered, the invitation will be sent to the user.
