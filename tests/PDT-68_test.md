@@ -1,0 +1,1 @@
+Total bookings and deep dive in every booking (name of person, email, restaurant within venue, time of booking, confirmation time, money spent)
