@@ -1,0 +1,1 @@
+Basic details: name, address, phone number, logo, type of venue (bar, club, lounge)
