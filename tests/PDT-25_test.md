@@ -1,0 +1,1 @@
+Count the number of events that are scheduled to occur in the next week.
