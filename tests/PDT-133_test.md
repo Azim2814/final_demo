@@ -1,0 +1,1 @@
+Active Member: Approved membership, can use all services
