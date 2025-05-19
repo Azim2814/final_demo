@@ -1,0 +1,1 @@
+i. Confirmation: Sent to users when they sign up ii. Rejection: Sent to users when they sign up
