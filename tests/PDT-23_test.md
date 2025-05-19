@@ -1,0 +1,1 @@
+Spending/Consumption (total aggregated spending per venue) Phase 1  Venue Performance (weekly/monthly trends) Phase 2
