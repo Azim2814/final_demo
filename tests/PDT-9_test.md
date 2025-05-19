@@ -1,0 +1,1 @@
+Admins can access the Dashboard by logging in to the admin portal.
