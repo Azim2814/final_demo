@@ -1,0 +1,1 @@
+User Growth Rate (trending indicator) Phase 2
