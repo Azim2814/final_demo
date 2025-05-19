@@ -1,0 +1,1 @@
+i. Yes: (venues that pay commission would have more visibility on app)
