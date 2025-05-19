@@ -1,0 +1,1 @@
+a=0 b=0 for i in range(len(a)): if a==0: b=b+1 if b==0: a=a+1
