@@ -1,0 +1,1 @@
+purpose: to test the functionality of a sys.stdin.buffer.readline().split() function
