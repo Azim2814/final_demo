@@ -1,0 +1,1 @@
+Graphs for user growth, venue performance over time, and event engagement.
