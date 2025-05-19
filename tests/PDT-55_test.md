@@ -1,0 +1,1 @@
+a=0 b=0 c=0 for i in range(0,100): if i==0: a=a+b elif i==1: b=b+c elif i==2: c=c+b elif i==3: b=b+c elif i==4: c=c+b elif i==5: b=b+c elif i==6: c=c+b elif i==7: b=b+c elif i==8: c=c+b elif i==9: b=b+c elif i==10: c=c+b elif i==11: b=b+c elif i==12: c=c+b elif i==13: b=b+c elif i==14:
