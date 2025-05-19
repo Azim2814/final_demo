@@ -1,0 +1,1 @@
+Can view and export all reports
