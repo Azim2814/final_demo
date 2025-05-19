@@ -1,0 +1,1 @@
+Business Agreement Details: Commission structure, discount rates, etc.
