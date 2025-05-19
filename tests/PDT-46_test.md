@@ -1,0 +1,1 @@
+iii. Not Signed: Not signed is a partnership in early stage discussion or leads to follow up
