@@ -1,0 +1,1 @@
+New Registrations (over a given period)
