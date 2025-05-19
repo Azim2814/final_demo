@@ -1,0 +1,1 @@
+a user is referred by a friend. if the friend has referred a user to the user, the user is referred by the friend. if the friend has referred a user to the user, the user is referred by the friend.
