@@ -1,0 +1,1 @@
+if a document is signed, the document is not signed.
