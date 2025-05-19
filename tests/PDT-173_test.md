@@ -1,0 +1,1 @@
+limited or read-only access to venue/event data
