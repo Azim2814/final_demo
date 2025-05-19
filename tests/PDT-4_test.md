@@ -1,0 +1,1 @@
+Scope: A test case for a software that allows you to test the functionality of a product.
