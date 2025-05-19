@@ -1,0 +1,1 @@
+Admin can manually approve or reject a membership application
