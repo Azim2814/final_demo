@@ -1,0 +1,1 @@
+a=[] b=[] c=[] for i in range(0,len(a)): a.append(a[i]) b.append(a[i]) c.append(a[i]) d.append(a[i]) e.append(a[i]) f.append(a[i]) g.append(a[i]) h.append(a[i]) i.append(a[i]) j.append(a[i]) k.append(a[i]) l.append(a[i]) m.append(a[i]) n.append(a[i]) m.append(a[i]) n.append(a[i]) m.append(a[i]) n.append(a[i]) m.append(a[i]) n.append(a[i]) m.append
