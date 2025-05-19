@@ -1,0 +1,1 @@
+Can create and manage users, venues, events
